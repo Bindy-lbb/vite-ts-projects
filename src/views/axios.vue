@@ -4,9 +4,9 @@ import HelloWorld from '@/components/HelloWorld.vue'
 
 <template>
   <div>
-     <span>reef</span>
+    <span>reef</span>
   </div>
-  <!-- <HelloWorld msg="Vite + Vue" /> -->
+  <HelloWorld msg="Vite + Vue" />
 </template>
 
 <style scoped>

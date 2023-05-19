@@ -1,14 +1,12 @@
-
-
 <script setup lang="ts">
 import HelloWorld from '@/components/HelloWorld.vue'
 </script>
 
 <template>
   <div>
-   <span>fsdfdsfdsf</span>
+    <span>fsdfdsfdsfeeeeeee</span>
   </div>
-  <!-- <HelloWorld msg="Vite + Vue" /> -->
+  <HelloWorld msg="Vite + Vue" />
 </template>
 
 <style scoped>
